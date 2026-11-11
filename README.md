@@ -126,7 +126,7 @@ Non-negotiable: single HTML <500KB · vanilla JS · IDB primary · localStorage 
 
 ---
 
-MIT · prime 743 · v1.0.0
+MIT · v1.0.0
 
 
 ## What this tool provides
